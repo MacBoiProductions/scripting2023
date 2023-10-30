@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Fira+Sans:wght@700&display=swap" rel="stylesheet');
+
+/* header */
+#header {
+    background: rgb(145, 0, 31);
+    background: linear-gradient(90deg, rgba(145, 0, 31, 1) 0%, rgba(240, 30, 0, 1) 100%);
+    outline: 10px;
+    border: 10px solid #ffff00;
+    border-color: #ffff00;
+}
+
+/* footer */
+#footer {
+    color: #ffff00;
+    background-color: #921922;
+    font-family: "Fira Sans";
+}
+
+h1 {
+    font-family: "Fira Sans";
+    color: #ffff00
+}
+
+h2 {
+    font-family: "Fira Sans";
+    color: #ffff00
+}
+
+#video h2 {
+    color:#DF0B00
+}
+
+#port h2 {
+    color:#DF0B00
+}
+
+p {
+    font-family: "EB Garamond";
+    color: #ffff00
+}
+
+p,
+header {
+    font-size: 22px;
+}
+
+#header img {
+    transition: transform .7s ease-in-out;
+}
+
+#header img:hover {
+    transform: rotate(360deg);
+}
+
+ul {
+    font-family: "EB Garamond";
+}
+
+li {
+    font-family: "EB Garamond";
+    font-size: 22px;
+}
+
+nav a:hover {
+    color: white;
+}
+
+nav a:active {
+    color: rgb(0, 213, 255);
+}
+
+nav a {
+    color: #ffff00
+}
+
+.navbar {
+    background-color: #ffff00;
+}
+
+.button {
+    color:#ffff00
+}
+
+a {
+    color:#ff2f5c
+}
+
+a:hover {
+    color:#6b0101
+}
+
+a:active {
+    color:#ff3ea5
+}
+
+#footer a:visited {
+    color:#ffbcca;
+}
+
+p a:visited {
+    color:#ffbcca;
+}
+
+/* Style all font awesome icons  */
+.fa {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color:#ffff00
+}
+
+/* YouTube */
+.fa-youtube:hover{
+    color:#ff0000;
+}
+
+/* Instagram */
+.fa-instagram:hover{
+    color:#D301C5;
+}
+
+/* Reddit */
+.fa-reddit:hover{
+    color:#FF5525;
+}
+
+#opener {
+    background-color: #DF0B00;
+}
+
+#rocky p {
+    color: #DF0B00;
+}
+
+#rocky {
+    background-color: #FFCB0F;
+
+}
+
+#school {
+    background-color: #DF0B00;
+}
+
+#spare-time {
+    background-color: #FFCB0F;
+}
+
+#spare-time p {
+    color: #DF0B00;
+}
+
+.bg-scallop{
+    background-image:url("../images/red-circle-scallop.png");
+    background-repeat: repeat-x;
+}
+
+.navbar-nav .nav-link {
+    text-align: center;
+}
+
+#footer li {
+    color:#ffff00;
+}
