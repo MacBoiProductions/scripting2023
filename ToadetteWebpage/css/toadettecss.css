@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Reem+Kufi+Fun:wght@700&display=swap');
+
+header {
+    text-align: center;
+    padding:30px;
+    border: 10px solid gold;
+    background-image: linear-gradient(to right top, #fe46c8, #e236aa, #c5268d, #a91572, #8d0359);
+  
+}
+
+header h3{
+  color:#FFEC7F;
+  text-decoration:none
+}
+
+body {
+  background-color: pink;
+}
+
+p {
+    font-family:"Happy Monkey";
+    color: #FE46C8;
+}
+
+/* section p{
+  float:left;
+} */
+
+h3 {
+    color: #F51636;
+    text-decoration: underline;
+    font-family:"Reem Kufi Fun";
+    font-size: 36px;
+}
+
+nav a, nav a:visited{
+  color:gold
+}
+
+nav a:active{
+  color:rgb(255, 166, 234);
+}
+
+h1{
+    color:gold;
+    font-family:"Reem Kufi Fun";
+    font-size: 48px;
+}
+
+nav ul {
+  list-style-type: none;
+  font-family:"Reem Kufi Fun";
+  color: #FE46C8;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #8d0359;
+}
+  
+nav li {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+  
+nav li a {
+    display: block;
+    color: gold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+section{
+  width:70vw;
+  margin: 0 auto;
+  padding:20px;
+  overflow:hidden;
+}
+  
+li a:hover {
+background-color: #500219;
+}
+
+
+nav ul{
+  background-color: #8d0359;
+  color: gold;
+  font-family:"Reem Kufi Fun";
+}
+
+.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+p {
+  text-align: left;
+}
+
+a:hover{
+  color:white;
+}
+
+a:active{
+  color:red;
+}
+
+a:visited{
+  color:rgb(255, 166, 234);
+}
+
+a{
+  color:gold
+}
+
+a nav{
+  color:gold
+}
+
+.references{
+  background-color:#8d0359
+}
+
+.overview{
+  background-color: #FF00AE;
+}
+
+.overview p{
+  color:white;
+}
+
+.overview h3{
+  color:#FFEC7F;
+}
+
+.powers{
+  background-color:#FFEC7F
+}
+
+.personality{
+  background-color: #FF00AE;
+}
+
+.personality p{
+  color:white;
+}
+
+.personality h3{
+  color:#FFEC7F;
+}
+
+.fe{
+  background-color:#FFEC7F
+}
+
+.trivia{
+  background-color: #FF00AE;
+}
+
+.trivia ul{
+  color: white;
+  font-family: "Happy Monkey";
+}
+
+.trivia h3{
+  color:#FFEC7F;
+}
+
+.gallery{
+  background-color:#FFEC7F
+}
+
+.references ul{
+  color: white;
+  font-family: "Happy Monkey";
+}
+
+footer{
+  padding: 30px;
+  font-family:'Comic Sans';
+  background-color:rgb(75, 19, 50);
+  color:yellow;
+  text-align: center;
+}
+
+.rightimage {
+  float:right;
+  margin-left:20px;
+}
