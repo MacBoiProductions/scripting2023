@@ -1,0 +1,37 @@
+header {
+    background-image: url('../images/backgrounds/Jd2024keyart.png');
+    background-size: cover;
+    background-position:left;
+    height: 75vh;
+    color:white;
+}
+
+.bg-purple{
+    background-color: #70086b;
+}
+
+/*
+I really like writing things in CSS and see how they affect the page! And I always enjoy writing funny commments INSIDE THE COMMENT BRACKET THINGIES! Like, WOW! I love CSS so much that I could just MARRY it! 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
+*/
+
+/*When the class goes at too slow a pace, I start writing delusional things in the comment bracket thingys omg help*/
+
+.nav-link{
+    color:rgb(215, 171, 254)
+}
+
+.navbar-brand{
+    color:rgb(255, 163, 142)
+}
+
+a {
+    color:rgb(215, 171, 254)
+}
+
+a:hover {
+    color:yellow;
+}
+
+#serviceheader{
+    background-image: url('../images/team/andrew.png');
+}
