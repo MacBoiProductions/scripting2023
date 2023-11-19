@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: #0A0080;
+}
+
+h1,
+h2, h3 {
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+h2, h3 {
+    color: #F5Cb01;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #F5Cb01;
+}
+
+ul,
+li {
+    font-family: 'Poppins', sans-serif;
+    color: #F5Cb01
+}
+
+footer h1,
+h2,
+h3 {
+    color: #F5Cb01
+}
+
+header {
+    background-image: url('../images/placeholder_image_landscape.png');
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+    color: #1400F5;
+}
+
+#indexheader {
+    background-image: url('../images/sunset_airdrie.jpeg');
+}
+
+#peopleheader {
+    background-image: url('../images/people-header-image.jpg');
+}
+
+#mapheader {
+    background-position: top;
+    background-image: url('../images/waterTower.JPG');
+}
+
+#attractions-banner {
+    background-image: url('../images/neighbourhood.png');
+}
+
+#dorky-references {
+    background-image: url('../images/fence-post.jpeg')
+}
+
+#indexheader p {
+    color: #200343 !important;
+}
+
+#mapheader p {
+    color: #8B35F5;
+}
+
+#peopleheader p {
+    color: #6d5b00;
+}
+
+.bg-navbarcolor {
+    background-color: #8B35F5;
+}
+
+nav {
+    font-family: "Poppins Light 300";
+}
+
+#footer {
+    position: relative;
+    color: #F5Cb01;
+    background-color: #0A0080;
+    font-family: "Fira Sans";
+}
+
+.bg-scallop {
+    background-image: url("../images/scallop.png");
+    background-repeat: repeat-x;
+}
+
+#attractions-footer {
+    background-image: url("../images/attractions-scallop.png");
+    background-repeat: repeat-x;
+}
+
+#attractions .bg-scallop {
+    background-image: url("../images/scallop.png");
+    background-repeat: repeat-x;
+}
+
+#main-text, #attraction2, #attraction4 {
+    background-color: #2285ff;
+}
+
+a:link {
+    color: rgb(255, 157, 0);
+}
+
+a:hover {
+    color: rgb(64, 39, 0);
+}
+
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: rgb(128, 34, 0);
+}
+
+#gallery {
+    background-color: #8077e4;
+}
+
+br {
+    background-color: #8077e4
+}
+
+.fa-facebook:hover {
+    color: #1877f2;
+}
+
+.fa-twitter:hover {
+    color: #121214;
+}
+
+.fa-instagram:hover {
+    color: #D301C5;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    color: #F5Cb01 !important;
+}
+
+nav a:link {
+    color: #F5Cb01 !important;
+}
+
+nav a:visited {
+    color: #F5Cb01 !important;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.fa-bars {
+    color: #F5Cb01;
+}
+
+.map {
+    margin: 0 auto !important;
+}
+
+#references-colour {
+    background-color: #8075E4;
+}
+
+#railroad {
+    background-image: url('../images/railroad.jpeg')
+}
+
+#attraction1, #attraction3 {
+    background-color: #8077e4;
+}
