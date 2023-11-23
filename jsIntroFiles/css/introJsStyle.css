@@ -1,0 +1,18 @@
+header{
+    background-image: url("../images/code2.jpg");
+    background-size: cover;
+    
+}
+
+.customHeight{
+    height:40vh;
+}
+
+p, h1, h2, h3 {
+    font-family: Comic Sans MS;
+}
+/*
+body {
+    background-color: hotpink
+}
+*/
