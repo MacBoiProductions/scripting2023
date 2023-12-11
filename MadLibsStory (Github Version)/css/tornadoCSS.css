@@ -14,6 +14,7 @@ p {
     font-family: "EB Garamond";
     font-size: large;
     color:white;
+    font-size: 20px;
 }
 
 header {
@@ -102,6 +103,16 @@ input[type=text] {
   }
 
 nav li {
+    font-family: "EB Garamond";
+    font-size: 20px;
+}
+
+li {
+    font-family: "EB Garamond";
+    font-size: 20px;
+}
+
+#choice {
     font-family: "EB Garamond";
     font-size: 20px;
 }
